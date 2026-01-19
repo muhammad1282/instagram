@@ -1,0 +1,6 @@
+streamlit
+instagrapi
+pillow
+schedule
+pandas
+sentry-sdk
